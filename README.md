@@ -1,1 +1,4 @@
-# sample-django-project
+# Django web-site
+Simple web-site, based on Django framework
+
+
