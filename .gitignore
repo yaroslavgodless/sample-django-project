@@ -1,2 +1,2 @@
-samplesite.db
-samplesite/settings.py
+db.sqlite3
+samplesite/
